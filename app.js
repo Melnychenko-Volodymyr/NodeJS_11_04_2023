@@ -19,5 +19,5 @@ app.get('/download/:filename', (req, res) => {
 });
 
 app.listen(3000, () => {
-  console.log('Сервер  включений');
+  console.log('Сервер включений');
 });
